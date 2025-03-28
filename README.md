@@ -18,7 +18,7 @@ The objective of this project is to analyze pizza sales data to derive meaningfu
 ## Process
 - Data Extraction: The dataset is sourced from pizza_sales_excel_file.
 - Data Processing: SQL queries are used to compute key metrics like total revenue, average order value, and order volume.
-- vAnalysis: Performance trends are examined by category, size, and time-based metrics.
+- Analysis: Performance trends are examined by category, size, and time-based metrics.
 
 ## Insights & Conclusions
 - The total revenue and average order value help assess overall business performance.
