@@ -7,13 +7,13 @@ The objective of this project is to analyze pizza sales data to derive meaningfu
 - Analyzing sales distribution across pizza categories and sizes.
 - Detecting hourly and weekly sales trends to optimize operational efficiency.
 
-- ## Technologies Used
+## Technologies Used
 - SQL: Data extraction and analysis.
 - Database: Data sourced from an Excel-based dataset.
 - BI Tools: Tableau for visualization
 
-  ## Dataset Used
-  - <a href = "https://github.com/Payal-Athate/SQL-Data-Analysis-Project/blob/main/pizza_sales_excel_file.xlsx"> Dataset </a>
+## Dataset Used
+- <a href = "https://github.com/Payal-Athate/SQL-Data-Analysis-Project/blob/main/pizza_sales_excel_file.xlsx"> Dataset </a>
 
 ## Process
 - Data Extraction: The dataset is sourced from pizza_sales_excel_file.
